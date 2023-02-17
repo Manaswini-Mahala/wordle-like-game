@@ -1,2 +1,3 @@
-# wordle-like-game
-A wordle like game using html, css and javascript.
+# wordle_clone
+
+A simple vanilla js clone of Wordle
